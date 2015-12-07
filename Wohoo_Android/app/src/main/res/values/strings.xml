@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wohoo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_plus">Add Image</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Registration</string>
+    <string name="title_activity_images">Images</string>
+    <string name="title_activity_upload">Upload</string>
+    <string name="action_settings">Settings</string>
+</resources>

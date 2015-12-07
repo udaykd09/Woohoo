@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="wohoo.app.com.wohoo.ImagesActivity">
+
+    <item
+        android:id="@+id/action_plus"
+        android:orderInCategory="100"
+        android:title="@string/action_plus"
+        android:icon="@drawable/ic_plus"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="logout"
+        android:icon="@drawable/ic_logout"
+        app:showAsAction="never" />
+
+
+
+</menu>
